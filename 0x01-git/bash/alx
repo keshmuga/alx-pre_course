@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX school" 
 =======
 echo "ALX school" 
 >>>>>>> update_script
+=======
+echo "ALX" 
+>>>>>>> parent of c76ed4f... Hot fix
